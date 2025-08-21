@@ -5,6 +5,6 @@ Este é um gerador de senha aleatória desenvolvido com HTML, CSS e JavaScript. 
 (https://gerador-de-senhas-anaf2lvyo-lucas-andres-projects-128036bd.vercel.app/)
 
 ## Funcionalidades
--Geração de senhas aleatórias com opções personalizáveis.
--Opções para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
--Botão para copiar a senha gerada para a área de transferência.
+- Geração de senhas aleatórias com opções personalizáveis.
+- Opções para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
+- Botão para copiar a senha gerada para a área de transferência.
